@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/ZookeeperTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17790#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 06 Sep 2024 05:03:35 UTC"
+record: 3

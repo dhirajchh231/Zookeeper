@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Topics/Array/Initializing an array of integers/out/
+/Topics/Array/Initializing an array of integers/out/production/classes/
+/Topics/Array/Initializing an array of longs/out/
+/Topics/Array/Initializing an array of longs/out/production/classes/
+/Topics/Array/Sum of multiples of 3 in an array/out/
+/Topics/Array/Sum of multiples of 3 in an array/out/production/classes/
+/Topics/Text blocks/Mad SQL query/out/
+/Topics/Text blocks/Mad SQL query/out/production/classes/
+/Zookeeper with Java/task/build/
+/Zookeeper with Java/task/out/
+/Zookeeper with Java/task/out/production/classes/
